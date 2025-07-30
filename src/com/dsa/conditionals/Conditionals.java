@@ -1,3 +1,5 @@
+package com.dsa.conditionals;
+
 public class Conditionals {
     public static void main(String[] args) {
         int age = 16;

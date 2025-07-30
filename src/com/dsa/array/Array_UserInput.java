@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package com.dsa.array;
+
 import java.util.Scanner;
 
 public class Array_UserInput {
@@ -12,7 +13,7 @@ public class Array_UserInput {
         for (int i=0;i<x;i++){
             arr[i] = sc.nextInt();
         }
-//        System.out.println(Arrays.toString(arr));
+//        System.out.println(com.dsa.array.Arrays.toString(arr));
 
         for (int j = 0; j < x; j++) {
             System.out.print(arr[j] + " ");

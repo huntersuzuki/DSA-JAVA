@@ -1,3 +1,5 @@
+package com.dsa.array;
+
 import java.util.Scanner;
 
 public class Array_Search {

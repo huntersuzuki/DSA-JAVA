@@ -1,3 +1,5 @@
+package com.dsa.loops;
+
 import java.util.Scanner;
 
 public class Loops {

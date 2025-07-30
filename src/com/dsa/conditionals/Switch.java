@@ -1,3 +1,5 @@
+package com.dsa.conditionals;
+
 import java.util.Scanner;
 
 public class Switch {
