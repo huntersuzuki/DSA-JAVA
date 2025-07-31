@@ -6,7 +6,7 @@ package com.functionalProgramming.java8.examples.functionalInterface.lambraExpre
 @FunctionalInterface // Annotation which tells the compiler that it's a functional interface.
 public interface MyInterface {
 
-    public void sayHello(); // abstract method
+     String sayHello(); // abstract method
 
     // A default method, but we still have a single abstract method.
     // Thus, this interface is still a functional interface.
