@@ -1,4 +1,4 @@
-package com.functionalProgramming.java8.examples.functionalInterface.lambraExpression.staticMethods;
+package com.functionalProgramming.java8.examples.staticMethods;
 
 interface A{
     static void sayHello(){

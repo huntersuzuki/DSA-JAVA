@@ -1,4 +1,4 @@
-package com.functionalProgramming.java8.examples.functionalInterface.lambraExpression.defaultMethods;
+package com.functionalProgramming.java8.examples.defaultMethods;
 
 interface Parent{
     default void sayHello(){

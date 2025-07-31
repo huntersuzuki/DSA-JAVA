@@ -1,4 +1,4 @@
-package com.functionalProgramming.java8.examples.functionalInterface.lambraExpression.staticMethods;
+package com.functionalProgramming.java8.examples.staticMethods;
 
 // Here in java 8 we can write the main method in the interface.
 // but the earlier version before java 8 does not support it,

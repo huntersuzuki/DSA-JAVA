@@ -1,4 +1,4 @@
-package com.functionalProgramming.java8.examples.functionalInterface.lambraExpression.inheritance;
+package com.functionalProgramming.java8.examples.inheritance;
 
 @FunctionalInterface
 public interface Child extends Parent{
