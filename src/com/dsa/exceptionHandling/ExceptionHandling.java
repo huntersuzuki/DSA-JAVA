@@ -42,9 +42,9 @@ public class ExceptionHandling {
         // The throws keyword appears in method signatures, declaring that a method might throw
         // certain exceptions, which must be handled elsewhere.
 
-        void riskyMethod() throws IOException {
-            // Code that may throw IOException
-        }
+//        void riskyMethod() throws IOException {
+//            // Code that may throw IOException
+//        }
 
         // Multiple and Nested Exception Handling
         // Multiple catch blocks: You can use several catch blocks after a single try,
@@ -64,14 +64,14 @@ public class ExceptionHandling {
         // If not, the JVM’s default handler prints the error and terminates the program abnormally.
 
         // Example: Division by Zero
-        try {
-            int ans = 10 / 0;
-            System.out.println("Answer: " + ans);
-        } catch (ArithmeticException e) {
-            System.out.println("Error: Division by zero is not allowed!");
-        } finally {
-            System.out.println("Program continues after handling the exception.");
-        }
+//        try {
+//            int ans = 10 / 0;
+//            System.out.println("Answer: " + ans);
+//        } catch (ArithmeticException e) {
+//            System.out.println("Error: Division by zero is not allowed!");
+//        } finally {
+//            System.out.println("Program continues after handling the exception.");
+//        }
 
         // Output:
         // Error: Division by zero is not allowed!
