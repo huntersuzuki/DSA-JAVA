@@ -13,5 +13,10 @@ public class Arrays {
         // Another way to initialize arrays
         int[] nums = new int[]{10,20,50,60};
         System.out.println(nums.length);
+        // Array is defined in the memory.
+        // int[] num; //  Array declaration.
+        // num = new int[5] //Initialisation: Here array object is created in the memory(Heap).
+
+
     }
 }
