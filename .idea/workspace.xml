@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cf01b6d-4790-432d-b580-27efaa58f785" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/BinarySearch/FAANG_questions/FindCeilingOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/BinarySearch/FAANG_questions/FindFloorOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/BinarySearch/FAANG_questions/LeetCode34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/BinarySearch/FAANG_questions/LeetCode744.java" afterDir="false" />
+    <list default="true" id="4cf01b6d-4790-432d-b580-27efaa58f785" name="Changes" comment="Add binary search-based solutions for ceiling, floor, and LeetCode problems and update IntelliJ configuration">
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/BinarySearch/FAANG_questions/InfiniteArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/BinarySearch/FAANG_questions/LeetCode852.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +56,10 @@
   "keyToString": {
     "Application.FindCeilingOfNumber.executor": "Run",
     "Application.FindFloorOfNumber.executor": "Run",
+    "Application.InfiniteArray.executor": "Run",
     "Application.LeetCode34.executor": "Run",
     "Application.LeetCode744.executor": "Run",
+    "Application.LeetCode852.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -78,9 +78,9 @@
   <component name="RecapUselessUpdatesCounter">
     <option name="suspendCountdown" value="0" />
   </component>
-  <component name="RunManager" selected="Application.LeetCode34">
-    <configuration name="FindCeilingOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.BinarySearch.FAANG_questions.FindCeilingOfNumber" />
+  <component name="RunManager" selected="Application.LeetCode852">
+    <configuration name="FindFloorOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.BinarySearch.FAANG_questions.FindFloorOfNumber" />
       <module name="DSA-JAVA" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindFloorOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.BinarySearch.FAANG_questions.FindFloorOfNumber" />
+    <configuration name="InfiniteArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.BinarySearch.FAANG_questions.InfiniteArray" />
       <module name="DSA-JAVA" />
       <extension name="coverage">
         <pattern>
@@ -131,12 +131,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LeetCode852" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.BinarySearch.FAANG_questions.LeetCode852" />
+      <module name="DSA-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.BinarySearch.FAANG_questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeetCode34" />
+        <item itemvalue="Application.LeetCode852" />
+        <item itemvalue="Application.InfiniteArray" />
         <item itemvalue="Application.LeetCode744" />
+        <item itemvalue="Application.LeetCode34" />
         <item itemvalue="Application.FindFloorOfNumber" />
-        <item itemvalue="Application.FindCeilingOfNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -155,10 +169,22 @@
       <option name="presentableId" value="Default" />
       <updated>1768200957031</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add binary search-based solutions for ceiling, floor, and LeetCode problems and update IntelliJ configuration">
+      <option name="closed" value="true" />
+      <created>1768498883566</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768498883566</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Add solutions for common FAANG binary search problems including 'Find Ceiling of Number', 'Find Floor of Number', 'LeetCode744', and 'LeetCode34' implementations" />
+    <MESSAGE value="Add ceiling, floor, and special binary search problems including LeetCode744 and LeetCode34 implementations" />
+    <MESSAGE value="Add binary search-based solutions for ceiling, floor, and LeetCode problems and update IntelliJ configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add binary search-based solutions for ceiling, floor, and LeetCode problems and update IntelliJ configuration" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
