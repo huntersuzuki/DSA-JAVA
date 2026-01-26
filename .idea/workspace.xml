@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cf01b6d-4790-432d-b580-27efaa58f785" name="Changes" comment="Add binary search-based solutions for ceiling, floor, and LeetCode problems and update IntelliJ configuration">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/BinarySearch/FAANG_questions/InfiniteArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/BinarySearch/FAANG_questions/LeetCode852.java" afterDir="false" />
+    <list default="true" id="4cf01b6d-4790-432d-b580-27efaa58f785" name="Changes" comment="Add binary search solutions for Infinite Array and LeetCode852 problems">
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/BinarySearch/FAANG_questions/LeetCode1095.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +13,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_//wsl.localhost/Ubuntu/home/pranay/IdeaProjects/DSA-JAVA" value="3899WHzoSlEU3wJGfX8TVvemNZJ" />
+    </persistenceIdMap>
+  </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="168" />
+    <option name="cachedIndexableFilesCount" value="171" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -57,6 +61,7 @@
     "Application.FindCeilingOfNumber.executor": "Run",
     "Application.FindFloorOfNumber.executor": "Run",
     "Application.InfiniteArray.executor": "Run",
+    "Application.LeetCode1095.executor": "Run",
     "Application.LeetCode34.executor": "Run",
     "Application.LeetCode744.executor": "Run",
     "Application.LeetCode852.executor": "Run",
@@ -68,6 +73,9 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -78,9 +86,9 @@
   <component name="RecapUselessUpdatesCounter">
     <option name="suspendCountdown" value="0" />
   </component>
-  <component name="RunManager" selected="Application.LeetCode852">
-    <configuration name="FindFloorOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.BinarySearch.FAANG_questions.FindFloorOfNumber" />
+  <component name="RunManager" selected="Application.LeetCode1095">
+    <configuration name="InfiniteArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.BinarySearch.FAANG_questions.InfiniteArray" />
       <module name="DSA-JAVA" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InfiniteArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.BinarySearch.FAANG_questions.InfiniteArray" />
+    <configuration name="LeetCode1095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.BinarySearch.FAANG_questions.LeetCode1095" />
       <module name="DSA-JAVA" />
       <extension name="coverage">
         <pattern>
@@ -146,18 +154,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode1095" />
         <item itemvalue="Application.LeetCode852" />
         <item itemvalue="Application.InfiniteArray" />
         <item itemvalue="Application.LeetCode744" />
         <item itemvalue="Application.LeetCode34" />
-        <item itemvalue="Application.FindFloorOfNumber" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
       </set>
     </attachedChunks>
   </component>
@@ -177,14 +185,23 @@
       <option name="project" value="LOCAL" />
       <updated>1768498883566</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add binary search solutions for Infinite Array and LeetCode852 problems">
+      <option name="closed" value="true" />
+      <created>1768826569261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768826569261</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add solutions for common FAANG binary search problems including 'Find Ceiling of Number', 'Find Floor of Number', 'LeetCode744', and 'LeetCode34' implementations" />
     <MESSAGE value="Add ceiling, floor, and special binary search problems including LeetCode744 and LeetCode34 implementations" />
     <MESSAGE value="Add binary search-based solutions for ceiling, floor, and LeetCode problems and update IntelliJ configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add binary search-based solutions for ceiling, floor, and LeetCode problems and update IntelliJ configuration" />
+    <MESSAGE value="Add binary search solutions for Infinite Array and LeetCode852 problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add binary search solutions for Infinite Array and LeetCode852 problems" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
