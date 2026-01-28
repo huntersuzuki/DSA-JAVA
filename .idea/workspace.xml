@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cf01b6d-4790-432d-b580-27efaa58f785" name="Changes" comment="Add binary search solutions for Infinite Array and LeetCode852 problems">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/BinarySearch/FAANG_questions/LeetCode1095.java" afterDir="false" />
+    <list default="true" id="4cf01b6d-4790-432d-b580-27efaa58f785" name="Changes" comment="Add binary search solution for LeetCode1095 problem and update IntelliJ configuration">
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/BinarySearch/FAANG_questions/LeetCode33.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +19,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="171" />
+    <option name="cachedIndexableFilesCount" value="172" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -62,6 +62,7 @@
     "Application.FindFloorOfNumber.executor": "Run",
     "Application.InfiniteArray.executor": "Run",
     "Application.LeetCode1095.executor": "Run",
+    "Application.LeetCode33.executor": "Run",
     "Application.LeetCode34.executor": "Run",
     "Application.LeetCode744.executor": "Run",
     "Application.LeetCode852.executor": "Run",
@@ -76,6 +77,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -86,7 +88,20 @@
   <component name="RecapUselessUpdatesCounter">
     <option name="suspendCountdown" value="0" />
   </component>
-  <component name="RunManager" selected="Application.LeetCode1095">
+  <component name="RunManager" selected="Application.LeetCode33">
+    <configuration name="InfiniteArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.BinarySearch.FAANG_questions.InfiniteArray" />
+      <module name="DSA-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.BinarySearch.FAANG_questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InfiniteArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dsa.BinarySearch.FAANG_questions.InfiniteArray" />
       <module name="DSA-JAVA" />
@@ -113,8 +128,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.BinarySearch.FAANG_questions.LeetCode34" />
+    <configuration name="LeetCode1095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.BinarySearch.FAANG_questions.LeetCode1095" />
+      <module name="DSA-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.BinarySearch.FAANG_questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.BinarySearch.FAANG_questions.LeetCode33" />
+      <module name="DSA-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.BinarySearch.FAANG_questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.BinarySearch.FAANG_questions.LeetCode33" />
+      <module name="DSA-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.BinarySearch.FAANG_questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode744" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.BinarySearch.FAANG_questions.LeetCode744" />
       <module name="DSA-JAVA" />
       <extension name="coverage">
         <pattern>
@@ -152,13 +206,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LeetCode852" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.BinarySearch.FAANG_questions.LeetCode852" />
+      <module name="DSA-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.BinarySearch.FAANG_questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode33" />
         <item itemvalue="Application.LeetCode1095" />
         <item itemvalue="Application.LeetCode852" />
         <item itemvalue="Application.InfiniteArray" />
         <item itemvalue="Application.LeetCode744" />
-        <item itemvalue="Application.LeetCode34" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +260,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768826569261</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add binary search solution for LeetCode1095 problem and update IntelliJ configuration">
+      <option name="closed" value="true" />
+      <created>1769435032152</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769435032152</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -201,7 +276,8 @@
     <MESSAGE value="Add ceiling, floor, and special binary search problems including LeetCode744 and LeetCode34 implementations" />
     <MESSAGE value="Add binary search-based solutions for ceiling, floor, and LeetCode problems and update IntelliJ configuration" />
     <MESSAGE value="Add binary search solutions for Infinite Array and LeetCode852 problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add binary search solutions for Infinite Array and LeetCode852 problems" />
+    <MESSAGE value="Add binary search solution for LeetCode1095 problem and update IntelliJ configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add binary search solution for LeetCode1095 problem and update IntelliJ configuration" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
