@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cf01b6d-4790-432d-b580-27efaa58f785" name="Changes" comment="Add binary search solutions for SearchInTwoDMatrix, SearchInTwoDMatrixSorted, and corresponding documentation, and update IntelliJ workspace configuration">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/LeetCodeProblemQuestions/LeetCode167.java" afterDir="false" />
+    <list default="true" id="4cf01b6d-4790-432d-b580-27efaa58f785" name="Changes" comment="Add Two Sum II (LeetCode167) solution and update IntelliJ workspace configuration">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +18,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="177" />
+    <option name="cachedIndexableFilesCount" value="179" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -62,6 +61,7 @@
     &quot;Application.FindFloorOfNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.InfiniteArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeetCode1095.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode167.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeetCode33.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeetCode34.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeetCode410.executor&quot;: &quot;Run&quot;,
@@ -184,7 +184,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
       </set>
     </attachedChunks>
   </component>
@@ -252,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770966613923</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add Two Sum II (LeetCode167) solution and update IntelliJ workspace configuration">
+      <option name="closed" value="true" />
+      <created>1770966854509</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770966854509</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -265,7 +273,9 @@
     <MESSAGE value="Add binary search solutions for Rotation Count and LeetCode410 problems and update IntelliJ configuration" />
     <MESSAGE value="Refactor documentation in LeetCode410 solution and update IntelliJ workspace configuration" />
     <MESSAGE value="Add binary search solutions for SearchInTwoDMatrix, SearchInTwoDMatrixSorted, and corresponding documentation, and update IntelliJ workspace configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add binary search solutions for SearchInTwoDMatrix, SearchInTwoDMatrixSorted, and corresponding documentation, and update IntelliJ workspace configuration" />
+    <MESSAGE value="Add solution for LeetCode167 problem (Two Sum II) and update IntelliJ workspace configuration" />
+    <MESSAGE value="Add Two Sum II (LeetCode167) solution and update IntelliJ workspace configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Two Sum II (LeetCode167) solution and update IntelliJ workspace configuration" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
