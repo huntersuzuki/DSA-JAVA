@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cf01b6d-4790-432d-b580-27efaa58f785" name="Changes" comment="Add Two Sum II (LeetCode167) solution and update IntelliJ workspace configuration">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4cf01b6d-4790-432d-b580-27efaa58f785" name="Changes" comment="Add Two Sum II (LeetCode167) solution and update IntelliJ workspace configuration" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +16,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="179" />
+    <option name="cachedIndexableFilesCount" value="202" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -55,36 +53,37 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.FindCeilingOfNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindFloorOfNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InfiniteArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1095.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode167.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode33.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode34.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode410.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode744.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode852.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotationCount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SearchInTwoDMatrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SearchInTwoDMatrixSorted.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FindCeilingOfNumber.executor": "Run",
+    "Application.FindFloorOfNumber.executor": "Run",
+    "Application.InfiniteArray.executor": "Run",
+    "Application.LeetCode1095.executor": "Run",
+    "Application.LeetCode167.executor": "Run",
+    "Application.LeetCode33.executor": "Run",
+    "Application.LeetCode34.executor": "Run",
+    "Application.LeetCode410.executor": "Run",
+    "Application.LeetCode744.executor": "Run",
+    "Application.LeetCode852.executor": "Run",
+    "Application.RotationCount.executor": "Run",
+    "Application.SearchInTwoDMatrix.executor": "Run",
+    "Application.SearchInTwoDMatrixSorted.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/pranay/IdeaProjects/DSA-JAVA",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RecapSpentCounter">
     <option name="endsOfQuotaMs" value="1769927104881" />
     <option name="spentUsd" value="0.0377486" />
