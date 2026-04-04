@@ -1,3 +1,5 @@
+package com.collectionFramework.Linked_List;
+
 class Node {
     int data;
     Node next;

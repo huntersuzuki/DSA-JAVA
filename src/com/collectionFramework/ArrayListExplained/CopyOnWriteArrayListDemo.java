@@ -1,3 +1,5 @@
+package com.collectionFramework.ArrayListExplained;
+
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 

@@ -1,3 +1,5 @@
+package com.collectionFramework.MapInJava;
+
 import java.util.LinkedHashMap;
 import java.util.Map;
 

@@ -1,3 +1,5 @@
+package com.collectionFramework.StackInJava;
+
 import java.util.Stack;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
